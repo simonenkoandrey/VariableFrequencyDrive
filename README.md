@@ -1,2 +1,2 @@
-# Variable-Frequency-Drive-VFD-
-VFD
+# Variable Frequency Drive (VFD) 
+
