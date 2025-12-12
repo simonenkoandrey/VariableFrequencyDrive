@@ -35,7 +35,7 @@ Hardware (what you should expect)
 
 Quick start — cloning and exploring
 1. Clone the repository:
-   git clone https://github.com/<your-org-or-user>/VariableFrequencyDrive.git
+   git clone https://github.com/simonenkoandrey/VariableFrequencyDrive.git
    cd VariableFrequencyDrive
 
 2. Inspect available targets and docs:
